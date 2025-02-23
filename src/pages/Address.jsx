@@ -3,7 +3,7 @@ import React from 'react';
 const Address = () => {
     return (
         <div>
-                <h1>This is Address page</h1>
+            <h1 className='text-center my-5 border border-danger'>This is Address page</h1>
         </div>
     );
 };
